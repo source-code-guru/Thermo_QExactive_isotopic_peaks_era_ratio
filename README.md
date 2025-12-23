@@ -145,23 +145,23 @@ csv_file_mass = r"C:\Users\Marc\Documents\Test\list_mass_test.csv"
 working_dir   = r"C:\Users\Marc\Documents\Test\"
 ```
 
-**Linux (Ubuntu)**
+**Linux (Ubuntu)** 
 ```python
 csv_file_mass = "/home/marc/Documents/Test/list_mass_test.csv"
 working_dir   = "/home/marc/Documents/Test/"
 ```
 
-### Running the script
-**Ubuntu / Linux**
+### Running the script 
+**Ubuntu / Linux** 
 ```bash
 conda activate ftms-raw
-python Script_search_ftms_v2h_clean_trapz.py
+python Thermo_QExactive_isotopic_peaks_era_ratio.py
 ```
 
 **Windows (Anaconda Prompt / PowerShell)**
 ```bash
 conda activate ftms-raw
-python Script_search_ftms_v2h_clean_trapz.py
+python Thermo_QExactive_isotopic_peaks_era_ratio.py
 ```
 
 ## Output
